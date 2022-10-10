@@ -9,6 +9,7 @@ public class Clase {
 		System.out.println("Paso 4");
 		System.out.println("Paso 6");
 		System.out.println("Paso 7");
+		System.out.println("Paso 9");
 
 	}
 
